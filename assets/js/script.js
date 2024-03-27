@@ -53,4 +53,4 @@ musica.playMultimedia();
 pelicula.playMultimedia();
 serie.playMultimedia();
 
-serie.setInicio(30); // Iniciar el video de la serie en el segundo 30
+serie.setInicio(30); 
